@@ -8,7 +8,9 @@
 A simple, job-ready stock-analysis app built with **Streamlit**, **yfinance**, **pandas**, **plotly**, and **pandas_ta**.  
 Fetch prices, visualize candles with SMAs, show RSI/MACD, and run a basic SMA crossover backtest—right in the browser.
 
-> 🔗 **Live demo:** <YOUR_STREAMLIT_CLOUD_URL>  
+> ## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-market-analysis-dashboard-53jyzdbuvdu9hbkkqdajsz.streamlit.app/)
+  
 > 🖼️ **Preview:**  
 > <img src="assets/screenshot.png" width="800"/>
 
